@@ -25,3 +25,7 @@ main {
 footer {
     flex: 1
 }
+
+h3 {
+    overflow-wrap: break-word;
+}
